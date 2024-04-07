@@ -1,3 +1,4 @@
 component: catalogue
 service_type: ClusterIP
 port: 8080
+env: prod
